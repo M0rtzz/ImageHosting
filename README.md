@@ -1,2 +1,2 @@
-# ImageHosting-
+# ImageHosting
 图床
